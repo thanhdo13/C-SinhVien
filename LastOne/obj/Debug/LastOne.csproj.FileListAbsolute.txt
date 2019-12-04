@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\LastOne\LastOne\bin\Debug\LastOne.exe.config
+C:\Users\USER\source\repos\LastOne\LastOne\bin\Debug\LastOne.exe
+C:\Users\USER\source\repos\LastOne\LastOne\bin\Debug\LastOne.pdb
+C:\Users\USER\source\repos\LastOne\LastOne\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\LastOne\LastOne\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\LastOne\LastOne\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\LastOne\LastOne\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.Form1.resources
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.Properties.Resources.resources
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.csproj.CopyComplete
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.exe
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.pdb
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.Migrations.abc.resources
+C:\Users\USER\source\repos\LastOne\LastOne\obj\Debug\LastOne.AddSinhVien.resources
